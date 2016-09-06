@@ -14,6 +14,7 @@
 		globalCount++;
 		localCount++;
 	%>
+	1213
 	globalCount = <%=globalCount %>
 	localCount = <%= localCount %>
 </body>
